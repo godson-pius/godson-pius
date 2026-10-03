@@ -1,40 +1,186 @@
-<h1 align="center">Hi 👋, I'm Godson Azubuike (Godson Pius)</h1>
-<h3 align="center">A passionate fuullstack developer</h3>
+<h1 align="center">Hi 👋, I'm Godson Pius</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=godson-pius" alt="godson-pius" /></a> </p>
+<h3 align="center">Full-Stack Developer • Product Builder • Entrepreneur</h3>
 
-<p align="left"> <a href="https://twitter.com/azubuike_godson" target="blank"><img src="https://img.shields.io/twitter/follow/azubuike_godson?logo=twitter&style=for-the-badge" alt="azubuike_godson" /></a> </p>
-
-- 🔭 I’m currently working on [Metanosdog](https://metanosdog.netlify.app/)
-
-- 🌱 I’m currently learning **Solidity**
-
-- 👨‍💻 All of my projects are available at [https://godsonpius.worldbraintechnology.com/](https://godsonpius.worldbraintechnology.com/)
-
-- 📝 I regularly write articles on [https://medium.com/@godsonpius](https://medium.com/@godsonpius)
-
-- 💬 Ask me about **React Js, Node Js**
-
-- 📫 How to reach me **godsonwebnet@gmail.com**
-
-- ⚡ Fun fact **I love playing video games**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/azubuike_godson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azubuike_godson" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/godson-azubuike-9b462b1b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/godson-azubuike-9b462b1b1/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/godson_pius/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/godson_pius/" height="30" width="40" /></a>
-<a href="https://medium.com/@godsonpius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@godsonpius" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@worldbraintechnology1880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@worldbraintechnology1880" height="30" width="40" /></a>
+<p align="center">
+  I build software products that solve real-world problems, with a focus on <b>web, mobile, AI, and emerging technologies.</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/godson-pius">
+    <img src="https://komarev.com/ghpvc/?username=godson-pius&label=Profile%20views&color=0e75b6&style=flat" alt="godson-pius" />
+  </a>
+  <a href="https://github.com/godson-pius?tab=followers">
+    <img src="https://img.shields.io/github/followers/godson-pius?label=Followers&style=flat" alt="GitHub followers" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godson-pius&show_icons=true&locale=en&layout=compact" alt="godson-pius" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godson-pius&show_icons=true&locale=en" alt="godson-pius" /></p>
+## 👨🏾‍💻 About Me
+
+I'm a **full-stack developer and product builder** passionate about turning ideas into useful software.
+
+I enjoy working across the entire product lifecycle, from designing interfaces and building APIs to deploying applications and figuring out how people actually use them.
+
+* 🚀 Founder & Lead Developer at **World Brain Technology**
+* 🌍 Building products for a global audience from Africa
+* 💬 Creator of **Gabvia**, an AI-powered multilingual communication platform
+* 🏥 Building **MedMask**, a health-tech platform focused on anonymous sexual health consultations
+* 🤖 Interested in **AI, fintech, health-tech, and IoT**
+* 👨🏾‍🏫 I teach programming and mentor aspiring developers
+* 🧠 I enjoy turning complex problems into simple products
+* 🎮 Fun fact: I love playing video games
+
+---
+
+## 🚀 What I'm Building
+
+### 🌍 Gabvia
+
+**Breaking language barriers through AI.**
+
+Gabvia is an AI-powered multilingual communication platform that automatically translates conversations into the recipient's preferred language.
+
+**Built with:**
+
+`React Native` `Expo` `Firebase` `AI` `TypeScript`
+
+🌐 [gabvia.app](https://gabvia.app)
+
+---
+
+### 🏥 MedMask
+
+**Making sexual health conversations more private and accessible.**
+
+MedMask is a health-tech platform designed to help people, especially young people, access sexual health guidance and consultations with licensed healthcare professionals anonymously.
+
+The goal is to make it easier for people to seek help without the fear, embarrassment, or stigma that can prevent them from getting tested or asking questions.
+
+**Focus areas:**
+
+`HealthTech` `Telemedicine` `Privacy` `Anonymous Consultation`
+
+---
+
+### 💻 World Brain Technology
+
+A technology company focused on building digital products, software solutions, and educating the next generation of developers.
+
+🌐 [worldbraintechnology.com](https://www.worldbraintechnology.com)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,expo" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase" />
+</p>
+
+### AI, IoT & Hardware
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,arduino,raspberrypi" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,vercel,postman" />
+</p>
+
+---
+
+## 📌 Things I've Built
+
+* 🌍 **Gabvia** - AI-powered multilingual communication platform
+* 🌱 **VunaLink** - Offline-first crop disease detection platform
+* 🤖 **Autonomous Delivery Robot** - Raspberry Pi, LiDAR, ROS & SLAM
+* 💳 **Bludux** - Multi-currency fintech product
+* 🏥 **MedMask** - Health-tech platform for private sexual health consultations
+* 📱 Mobile and web applications for businesses and organizations
+* 🎓 Educational technology and student-focused platforms
+
+---
+
+## 🏆 Achievements
+
+🏅 **2nd Place - TechX Hackathon, Rwanda**
+
+Built **VunaLink**, an offline-first crop disease detection PWA using machine learning and edge inference.
+
+🎓 **Advanced Diploma in Software Engineering**
+
+👨🏾‍🏫 **Programming Instructor & Mentor**
+
+🌍 Building technology products from Africa for the world.
+
+---
+
+## ✍🏾 Writing & Learning
+
+I write about technology, software development, entrepreneurship, and lessons from building products.
+
+📝 [Read my articles on Medium](https://medium.com/@godsonpius)
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/godson-pius-9b462b1b1/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/godson-pius" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com/godson_pius/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
+</a>
+<a href="https://medium.com/@godsonpius" target="_blank">
+<img src="https://skillicons.dev/icons?i=medium" width="40" height="40" alt="Medium"/>
+</a>
+</p>
+
+📫 **Email:** [godsonwebnet@gmail.com](mailto:godsonwebnet@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=godson-pius&show_icons=true&theme=tokyonight&hide_border=true" alt="Godson's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godson-pius&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=godson-pius&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <b>Building. Learning. Teaching. Shipping.</b>
+</p>
+
+<p align="center">
+  Made with ❤️ from Africa 🌍
+</p>
